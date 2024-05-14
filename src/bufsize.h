@@ -1,5 +1,5 @@
 #ifndef BUFSIZE
 
-#define BUFSIZE 48
+#define BUFSIZE 30
 
 #endif
